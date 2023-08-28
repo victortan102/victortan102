@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/victor-tan102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel kong" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming Languages: </h3>
+<h3 align="left">🧑🏻‍💻 Programming Languages: </h3>
 <p align="left">
   <a href="https://www.geeksforgeeks.org/c-language-introduction/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
@@ -33,7 +33,7 @@
   <a href="https://www.ni.com/en/shop/labview.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original-wordmark.svg" alt="labview" width="50" height="50"/> </a> 
 </p>
 
-<h3 align="left">Software & Tools: </h3>
+<h3 align="left">🛠️ Software & Tools: </h3>
 <p align="left">
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" alt="androidstudio" width="50" height="50"/> </a> 
   <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="github" width="50" height="50"/> </a> 
@@ -48,7 +48,7 @@
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="50" height="50"/> </a> 
 </p>
 
-
+<h3 align="left">📈 GitHub Statistics: </h3>
 <p><img align="left" src="https://github-readme-stats-git-master-victortan102.vercel.app/api/top-langs?username=victortan102&show_icons=true&theme=tokyonight&langs_count=10" alt="victortan102" /></p>
 
 <p><img align="center" src="https://github-readme-stats-git-master-victortan102.vercel.app/api?username=victortan102&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="victortan102" /></p>
