@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/victortan102/victortan102/blob/main/Banner.jpg">
+  <a href="https://github.com/victortan102">
+    <img src="https://github.com/victortan102/victortan102/blob/main/Banner.jpg">
+  </a>
 </p>
 
 <h1 align="center">👋 Hi, I’m Victor</h1>
