@@ -54,6 +54,7 @@
 
 <p><img align="left" src="https://github-readme-stats-git-master-victortan102.vercel.app/api/top-langs?username=victortan102&show_icons=true&theme=tokyonight&langs_count=10" alt="victortan102" /></p>
 
-<p><img align="center" src="https://github-readme-stats-git-master-victortan102.vercel.app/api?username=victortan102&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="victortan102" /></p>
-
-<p><img align="center" src="https://github-readme-stats-git-master-victortan102.vercel.app/api/wakatime?username=victortan102&theme=tokyonight" alt="wakatimestats" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats-git-master-victortan102.vercel.app/api?username=victortan102&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="victortan102" />
+  <img align="center" src="https://github-readme-stats-git-master-victortan102.vercel.app/api/wakatime?username=victortan102&theme=tokyonight" alt="wakatimestats" />
+</p>
