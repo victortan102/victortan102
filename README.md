@@ -8,6 +8,8 @@
 
 <h3 align="center">👀 A software engineering undergraduate in Singapore.</h3>
 
+![](https://komarev.com/ghpvc/?username=victortan102&color=38BDAE&style=for-the-badge&label=PROFILE+VIEWS)
+
 <h3 align="left">📫 How to reach me:</h3>
 
 - Email: **victortan102@gmail.com**
