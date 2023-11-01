@@ -14,9 +14,10 @@
 
 - Email: **victortan102@gmail.com**
 
-<h3 align="left">🔗 Connect with me on
-<a href="https://www.linkedin.com/in/victor-tan102" target="blank"><img align="center" src="https://deviconapi.vercel.app/linkedin?version=plain-wordmark&color=0076B2&size=200" alt="linkedin" height="100" width="100" /></a>
-</h3>
+<h3 align="left">🔗 Connect with me on Linkedin:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/victor-tan102" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50" width="50" /></a>
+</p>
 
 <h3 align="left">🧑🏻‍💻 Programming Languages: </h3>
 <p align="left">
@@ -39,7 +40,7 @@
 <h3 align="left">🛠️ Software & Tools: </h3>
 <p align="left">
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="50" height="50"/> </a>  
-  <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="github" width="50" height="50"/> </a>  
+  <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/github?version=original-wordmark&color=882393&size=180" alt="github" width="50" height="50"/> </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50"/> </a>  
   <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank" rel="noreferrer"> <img src="https://img.informer.com/icons/png/128/7590/7590235.png" alt="mplab" width="50" height="50"/> </a>  
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="50" height="50"/> </a>  
