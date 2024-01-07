@@ -47,7 +47,7 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="50" height="50"/> </a>  
   <a href="https://rapidminer.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/4490278?s=200&v=4" alt="rapidminer" width="50" height="50"/> </a>  
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="50" height="50"/> </a>  
-  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://xlmsolutions.com/wp-content/uploads/2020/04/3DS_BRAND_ICONS_RGB_SOLIDWORKS.png" alt="solidworks" width="50" height="50"/> </a>  
+  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="./Icons/SOLIDWORKS.png" alt="solidworks" width="50" height="50"/> </a>  
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/unity?version=original&color=FFFFFF&size=50" alt="unity" width="50" height="50"/> </a>  
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> </a>  
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="50" height="50"/> </a>  
