@@ -44,13 +44,13 @@
   <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/github?version=original-wordmark&color=882393&size=180" alt="github" width="50" height="50"/> </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50"/> </a>  
   <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank" rel="noreferrer"> <img src="https://img.informer.com/icons/png/128/7590/7590235.png" alt="mplab" width="50" height="50"/> </a>  
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="50" height="50"/> </a>  
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50"/> </a>  
   <a href="https://rapidminer.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/4490278?s=200&v=4" alt="rapidminer" width="50" height="50"/> </a>  
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="50" height="50"/> </a>  
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="./Icons/SOLIDWORKS.png" alt="solidworks" width="50" height="50"/> </a>  
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/unity?version=original&color=FFFFFF&size=50" alt="unity" width="50" height="50"/> </a>  
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="50" height="50"/> </a>  
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> </a>  
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="50" height="50"/> </a>  
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="50" height="50"/> </a>  
 </p>
 
 <h3 align="left">📈 GitHub Statistics: </h3>
