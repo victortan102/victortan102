@@ -28,13 +28,31 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>  
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>  
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>  
-  <a href="https://www.ni.com/en/shop/labview.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original-wordmark.svg" alt="labview" width="50" height="50"/> </a>  
+  <a href="https://www.ni.com/en/shop/labview.html" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./Icons/labview-original-wordmark-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original-wordmark.svg">
+      <img src="./Icons/labview-original-wordmark-dark.svg" alt="labview" width="50" height="50"/>
+    </picture>
+  </a>  
 </p>
 
 <h3 align="left">📝 Markup Languages: </h3>
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="50" height="50"/> </a>  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html" width="50" height="50"/> </a>  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="50" height="50"/>
+    </picture>
+  </a>  
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="50" height="50"/>
+    </picture>
+  </a>  
 </p>
 
 <h3 align="left">🛢 Database Management Systems: </h3>
@@ -48,6 +66,13 @@
   <a href="https://www.w3schools.com/asp/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="asp.net" width="50" height="50"/> </a>  
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="50" height="50"/> </a>  
   <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" alt="android" width="50" height="50"/> </a>  
+  <a href="https://libgdx.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./Icons/libGDX-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="./Icons/libGDX-light.png">
+      <img src="./Icons/libGDX-dark.png" alt="libGDX" width="55" height="50"/>
+    </picture>
+  </a>  
 </p>
 
 <h3 align="left">🛠️ Software & Tools: </h3>
