@@ -30,8 +30,8 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>  
   <a href="https://www.ni.com/en/shop/labview.html" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./Icons/labview-original-wordmark-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original-wordmark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="./Icons/labview-original-wordmark-dark.svg" width="50" height="50">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original-wordmark.svg" width="50" height="50">
       <img src="./Icons/labview-original-wordmark-dark.svg" alt="labview" width="50" height="50"/>
     </picture>
   </a>  
@@ -41,15 +41,15 @@
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="50" height="50"/>
     </picture>
   </a>  
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" width="50" height="50">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="50" height="50"/>
     </picture>
   </a>  
@@ -68,8 +68,8 @@
   <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" alt="android" width="50" height="50"/> </a>  
   <a href="https://libgdx.com/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./Icons/libGDX-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="./Icons/libGDX-light.png">
+      <source media="(prefers-color-scheme: dark)" srcset="./Icons/libGDX-dark.png" width="50" height="50">
+      <source media="(prefers-color-scheme: light)" srcset="./Icons/libGDX-light.png" width="50" height="50">
       <img src="./Icons/libGDX-dark.png" alt="libGDX" width="55" height="50"/>
     </picture>
   </a>  
