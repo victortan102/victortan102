@@ -57,7 +57,7 @@
 
 <h3 align="left">🛢 Database Management Systems: </h3>
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.openxcell.com/wp-content/uploads/2021/11/Group-56814.png?x68452" alt="mssql" width="50" height="50"/> </a>  
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" width="50" height="50"/> </a>  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>  
 </p>
 
