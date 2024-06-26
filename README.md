@@ -97,5 +97,7 @@
 
 <p>
   <img align="center" src="https://github-readme-stats-git-master-victortan102.vercel.app/api?username=victortan102&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats-git-master-victortan102.vercel.app/api/wakatime?username=victortan102&theme=tokyonight&custom_title=Programming%20Stats%20on%20WakaTime" alt="Wakatime Stats" />
+  <a href="https://wakatime.com/@victortan102" target="_blank" rel="noreferrer">
+    <img align="center" src="https://github-readme-stats-git-master-victortan102.vercel.app/api/wakatime?username=victortan102&theme=tokyonight&custom_title=Programming%20Stats%20on%20WakaTime" alt="Wakatime Stats" />
+  </a>  
 </p>
