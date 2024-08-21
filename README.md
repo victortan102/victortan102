@@ -66,6 +66,13 @@
   <a href="https://www.w3schools.com/asp/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="asp.net" width="50" height="50"/> </a>  
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="50" height="50"/> </a>  
   <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" alt="android" width="50" height="50"/> </a>  
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/flask?version=original&color=FFFFFF&size=180" width="50" height="50">
+      <source media="(prefers-color-scheme: light)" srcset="https://deviconapi.vercel.app/flask?version=original&color=000000&size=180" width="50" height="50">
+      <img src="https://deviconapi.vercel.app/flask?version=original&color=FFFFFF&size=180" alt="flask" width="55" height="50"/>
+    </picture>
+  </a>  
   <a href="https://libgdx.com/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./Icons/libGDX-dark.png" width="50" height="50">
@@ -73,11 +80,13 @@
       <img src="./Icons/libGDX-dark.png" alt="libGDX" width="55" height="50"/>
     </picture>
   </a>  
+  <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="./Icons/MQTT.png" alt="mqtt" width="58" height="50"/> </a>  
 </p>
 
 <h3 align="left">🛠️ Software & Tools: </h3>
 <p align="left">
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="50" height="50"/> </a>  
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="./Icons/cisco-packet-tracer.png" alt="cisco-packet-tracer" width="50" height="50"/> </a>  
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="50" height="50"/> </a>  
   <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/github?version=original-wordmark&color=882393&size=180" alt="github" width="50" height="50"/> </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50"/> </a>  
