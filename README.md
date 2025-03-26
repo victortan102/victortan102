@@ -109,7 +109,7 @@
 <h3 align="left">📈 GitHub Statistics: </h3>
 
 <div style="display: flex; justify-content: center;">
-    <img align="left" src="https://github-readme-streak-stats-sigma-six-62.vercel.app?user=victortan102&theme=tokyonight&date_format=j%20M%5B%20Y%5D"
+    <img align="left" src="https://github-readme-streak-stats-six-beryl.vercel.app?user=victortan102&theme=tokyonight&date_format=j%20M%5B%20Y%5D"
         alt="GitHub Streak" />
     <img src="https://github-readme-stats-git-master-victortan102.vercel.app/api?username=victortan102&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
         alt="GitHub Stats" />
