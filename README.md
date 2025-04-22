@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/victortan102">
-    <img src="https://raw.githubusercontent.com/victortan102/victortan102/main/Banner.jpg">
+    <img src="https://raw.githubusercontent.com/victortan102/victortan102/main/Banner.jpg" alt="Banner">
   </a>
 </p>
 
@@ -8,11 +8,11 @@
 
 <h3 align="center">👀 A software engineering undergraduate in Singapore.</h3>
 
-![](https://komarev.com/ghpvc/?username=victortan102&color=38BDAE&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Profile View Count](https://komarev.com/ghpvc/?username=victortan102&color=38BDAE&style=for-the-badge&label=PROFILE+VIEWS)
 
 <h3 align="left">📫 How to reach me:</h3>
 
-- Email: **victortan102@gmail.com**
+- Email: **<victortan102@gmail.com>**
 
 <h3 align="left">🔗 Connect with me on Linkedin:</h3>
 <p align="left">
@@ -26,6 +26,7 @@
   <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>  
   <a href="https://www.geeksforgeeks.org/embedded-c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original-wordmark.svg" alt="embeddedc" width="50" height="50"/> </a>  
   <a href="https://www.w3schools.com/java/java_intro.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> </a>  
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/> </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>  
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>  
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>  
@@ -58,6 +59,13 @@
 
 <h3 align="left">🛢 Database Management Systems: </h3>
 <p align="left">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./Icons/firebase-original-fullcolor-light.svg" width="50" height="50">
+      <source media="(prefers-color-scheme: light)" srcset="./Icons/firebase-original-fullcolor-dark.svg" width="50" height="50">
+      <img src="./Icons/firebase-original-fullcolor-light.svg" alt="firebase" width="50" height="50"/>
+    </picture>
+  </a>  
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="50" height="50"/> </a>  
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" width="50" height="50"/> </a>  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>  
@@ -71,6 +79,7 @@
   <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" alt="android" width="50" height="50"/> </a>  
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/> </a>  
   <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="50" height="50"/> </a>  
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="50" height="50"/> </a>  
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://deviconapi.vercel.app/flask?version=original&color=FFFFFF&size=180" width="50" height="50">
@@ -78,6 +87,8 @@
       <img src="https://deviconapi.vercel.app/flask?version=original&color=FFFFFF&size=180" alt="flask" width="55" height="50"/>
     </picture>
   </a>  
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="50" height="50"/> </a>  
+  <a href="https://developer.android.com/compose" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpackcompose" width="50" height="50"/> </a>  
   <a href="https://libgdx.com/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./Icons/libGDX-dark.png" width="50" height="50">
@@ -86,6 +97,7 @@
     </picture>
   </a>  
   <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="./Icons/MQTT.png" alt="mqtt" width="58" height="50"/> </a>  
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/> </a>  
 </p>
 
 <h3 align="left">🛠️ Software & Tools: </h3>
