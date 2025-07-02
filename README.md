@@ -19,6 +19,10 @@
 <a href="https://www.linkedin.com/in/victor-tan102" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50" width="50" /></a>
 </p>
 
+<h3 align="left">🌐 Check out my Website:</h3>
+
+- <https://victortan102.vercel.app>
+
 <h3 align="left">🧑🏻‍💻 Programming Languages: </h3>
 <p align="left">
   <a href="https://www.geeksforgeeks.org/c-language-introduction/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>  
