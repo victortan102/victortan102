@@ -110,7 +110,7 @@
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="./Icons/cisco-packet-tracer.png" alt="cisco-packet-tracer" width="50" height="50"/> </a>  
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="50" height="50"/> </a>  
   <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://deviconapi.vercel.app/github?version=original-wordmark&color=882393&size=180" alt="github" width="50" height="50"/> </a>  
-  <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="./Icons/gitkraken-original.svg" alt="gitkraken" width="50" height="50"/> </a>  
+  <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitkraken/gitkraken-original.svg" alt="gitkraken" width="50" height="50"/> </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50"/> </a>  
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/> </a>  
   <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank" rel="noreferrer"> <img src="https://img.informer.com/icons/png/128/7590/7590235.png" alt="mplab" width="50" height="50"/> </a>  
