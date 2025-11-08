@@ -128,15 +128,15 @@
 <div style="display: flex; justify-content: center;">
     <img align="left" src="https://github-readme-streak-stats-six-beryl.vercel.app?user=victortan102&theme=tokyonight&date_format=j%20M%5B%20Y%5D"
         alt="GitHub Streak" />
-    <img src="https://github-readme-stats-git-master-victortan102.vercel.app/api?username=victortan102&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    <img src="https://github-readme-stats-three-mu-17.vercel.app/api?username=victortan102&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
         alt="GitHub Stats" />
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <img align="left"src="https://github-readme-stats-git-master-victortan102.vercel.app/api/top-langs?username=victortan102&show_icons=true&theme=tokyonight&langs_count=10"
+    <img align="left"src="https://github-readme-stats-three-mu-17.vercel.app/api/top-langs?username=victortan102&show_icons=true&theme=tokyonight&langs_count=10"
         alt="Most Used Languages Stats" />
     <a href="https://wakatime.com/@victortan102" target="_blank" rel="noreferrer">
-        <img src="https://github-readme-stats-git-master-victortan102.vercel.app/api/wakatime?username=victortan102&theme=tokyonight&custom_title=Programming%20Stats%20on%20WakaTime"
+        <img src="https://github-readme-stats-three-mu-17.vercel.app/api/wakatime?username=victortan102&theme=tokyonight&custom_title=Programming%20Stats%20on%20WakaTime"
             alt="Wakatime Stats" />
     </a>
 </div>
